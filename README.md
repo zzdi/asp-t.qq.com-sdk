@@ -1,6 +1,6 @@
 # asp-t.qq.com-sdk
 ## 1、程序版本: V1.1
-包含基本get与post以及multipart/form-data方式post数据，能满足asp调用腾讯微博api的基本需求。
+腾讯微博asp版本sdk，包含基本get与post以及multipart/form-data方式post数据，能满足asp调用腾讯微博api的基本需求。
 
 ## 2、文件说明
 配置文件
