@@ -1,0 +1,10 @@
+*{margin:0;padding:0}
+body{color:#333;font-size:12px;height:96%;line-height:180%;background-color:#fff;}
+a:link,a:visited{text-decoration:none;color:#0099cc;}
+a:hover,#a_hover{text-decoration:underline;color:#FF6600;}
+img{border:none}
+#main{width:768px;height:100%;margin:auto;padding:10px;background-color:#fff;border:1px solid #D8D8D8;}
+input,textarea{margin:2px;border:1px solid #D8D8D8;}
+span{color:#999;}
+hr{height:1px;border:none;border-bottom:1px dashed #D8D8D8;}
+.box{width:768px;margin:auto;padding:5px;border:1px dotted #D8D8D8;overflow:hidden;}
